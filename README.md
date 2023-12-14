@@ -1,3 +1,7 @@
+Muhammad Iqra Mulya Gading
+D121211085/Pemrograman Mobile
+
+
 Dokumentasi apps :
 
 ![home screen](https://github.com/Iqramulya/MarsroversApps/assets/90173303/635c33ee-9eee-4378-b694-b7db76123188)
